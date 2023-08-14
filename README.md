@@ -6,7 +6,10 @@ Also it is not like the old game where if snake touches the side wall or bites i
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 Below are the Screenshots :-
-![Screenshot2](https://github.com/Mohd-Adeen/Snake-Game/assets/85848523/9f53ba12-1cee-4871-b185-c033c3e42035)
-![Screenshot1](https://github.com/Mohd-Adeen/Snake-Game/assets/85848523/ccdf7d97-c84f-4b96-8ba3-6d16983cb72e)![Uploading Screenshot1.png…]()
+
+
+![Screenshot2](https://github.com/Mohd-Adeen/Snake-Game/assets/85848523/eb6b9aac-ee5a-4abd-9570-c937d121cc80)
+![Screenshot1](https://github.com/Mohd-Adeen/Snake-Game/assets/85848523/04b8bef7-6a01-4a34-a463-9bf2d24f8b11)
+
 
 
